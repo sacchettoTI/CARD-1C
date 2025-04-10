@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  height: auto;
+  background-image: url(https://images5.alphacoders.com/126/1269318.png);
+}
+section {
+  margin-left: 25%;
+  margin-top: 10vh;
+  width: 50%;
+  height: 48vh;
+  background-color: rgba(221, 0, 0, 0.75);
+  border-radius: 2.5%;
+}
+section h1 {
+  color: black;
+  font-size: 1.5em;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+  margin-bottom: 20px;
+}
+h1 a{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
